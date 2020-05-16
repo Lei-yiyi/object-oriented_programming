@@ -11,7 +11,7 @@ Updated on 2020-05-16
 
 @decription: Python 属性（实例属性、类属性）
 
-@ref:
+@ref: https://github.com/Lei-yiyi/object-oriented_programming/blob/master/attributes.py
 """
 
 """
