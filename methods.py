@@ -11,7 +11,7 @@ Updated on 2020-05-16
 
 @decription: Python 方法（实例方法、类方法、静态方法）
 
-@ref:
+@ref: https://github.com/Lei-yiyi/object-oriented_programming/blob/master/methods.py
 """
 
 """
