@@ -11,7 +11,7 @@ Updated on 2020-05-16
 
 @decription: Python 类的继承
 
-@ref:
+@ref: https://github.com/Lei-yiyi/object-oriented_programming/blob/master/inheritance%20.py
 """
 
 """    
