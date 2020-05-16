@@ -11,7 +11,7 @@ Updated on 2020-05-16
 
 @decription: Python 类与对象
 
-@ref: https://github.com/Lei-yiyi/object-oriented_programming
+@ref: https://github.com/Lei-yiyi/object-oriented_programming/blob/master/classAobject.py
 """
 
 """
